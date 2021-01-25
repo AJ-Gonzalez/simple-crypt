@@ -1,5 +1,7 @@
 # simple-crypt
 
+## Small remix to use pycryptodome.
+
 Simple, secure encryption and decryption for Python 2.7 and 3.
 
 Now on [pypi](http://pypi.python.org/pypi/simple-crypt):
